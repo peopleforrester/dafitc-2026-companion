@@ -87,16 +87,28 @@ Cameron Stanley, AWS Summit DC. Defense One, July 2, 2026. Official self-report,
 not audited.
 https://www.defenseone.com/technology/2026/07/genaimil-records-almost-17m-users-plans-new-model-additions/414569/
 
-**S13.** The GenAI Divide: State of AI in Business 2025. MIT Project NANDA,
-July 2025. Cross-sectional industry study. `[no verified URL]`
+**S13.** The GenAI Divide: State of AI in Business 2025. MIT Project NANDA.
+Research period January to June 2025.
+
+**The original has been withdrawn.** `nanda.media.mit.edu/ai_report_2025.pdf`
+served the PDF until 18 August 2025, then 404, and now redirects to a group
+overview page. The archived primary is the only citable copy:
+https://web.archive.org/web/20250818115520/https://nanda.media.mit.edu/ai_report_2025.pdf
+
+Not peer reviewed, and pulled from MIT's own servers. Treat accordingly.
 
 Note on the widely quoted 95 percent failure figure from this study: it rests
 largely on 52 qualitative interviews, and the authors themselves called it
 directionally accurate. The failure *mode* is well supported. The number is not
 load-bearing and is deliberately not used here.
 
-**S14.** Over 40 percent of agentic AI projects will be canceled by end of 2027.
-Gartner, June 25, 2025. Forecast. `[no verified URL]`
+**S14.** Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by
+End of 2027. Gartner press release, 25 June 2025. Quote attributed to Anushree
+Verma. Underlying poll of 3,412 webinar attendees, January 2025.
+https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027
+
+Ungated but bot-walled. If the link refuses an automated client, it still opens
+in a browser.
 
 **S15.** Artificial Intelligence Acquisitions. GAO-26-107859, April 13, 2026.
 https://www.gao.gov/products/gao-26-107859
@@ -105,9 +117,18 @@ https://www.gao.gov/products/gao-26-107859
 Office, selected as an Air Force system of record. DefenseScoop, May 10, 2023.
 https://defensescoop.com/2023/05/10/air-force-selects-ai-enabled-predictive-maintenance-program-as-system-of-record/
 
-**S28.** The 10/20/70 rule: successful AI adoption is roughly 10 percent
-algorithms, 20 percent technology and data, and 70 percent people and process.
-Boston Consulting Group. `[no verified URL]`
+**S28.** Scaling AI Requires New Processes, Not Just New Tools. Boston
+Consulting Group, 2026. BCG's own words:
+
+> BCG has established a guiding principle of 10/20/70 for resource allocation.
+> That is, companies should devote 10% of their efforts to algorithms and 20% to
+> technology and data; the remaining 70% of their efforts should focus on people
+> and processes to make sure that the changes stick.
+
+https://www.bcg.com/publications/2026/scaling-ai-requires-new-processes-not-just-new-tools
+
+Note that BCG frames this as **effort** allocation. Several secondary write-ups
+render it as budget. That is a drift worth not repeating.
 
 ---
 
@@ -150,18 +171,46 @@ https://www.nist.gov/itl/ai-risk-management-framework
 and NIST SP 800-53 Rev. 5.
 https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
 
-**S20.** Customer-facing ordering bot completes a programming homework request
-before taking the order. Media reporting, 2026. `[no verified URL]`
+**S20.** **This story is false and is retained only as a correction.**
 
-**S23.** Large reasoning models are autonomous jailbreak agents. Overall
-jailbreak success rate of 97.14 percent across model combinations. Nature
-Communications, 2026.
+The viral claim was that a McDonald's customer-service assistant was tricked
+into debugging Python instead of taking orders. An internal investigation found
+no evidence, the circulating screenshots are believed fraudulent, and McDonald's
+does not have an AI customer assistant in its app. The near-identical Chipotle
+version was confirmed Photoshopped by Chipotle.
+
+There's no rogue McDonald's AI bot, but prompt injection is still a risk for
+companies. Fast Company, 24 April 2026.
+https://www.fastcompany.com/91532091/mcdonalds-ai-bot-didnt-go-rogue
+
+The vulnerability class is real. That particular anecdote is not. Use S23 or S24
+for evidence instead.
+
+**S23.** Large reasoning models are autonomous jailbreak agents. Hagendorff,
+Derner and Oliver. Nature Communications vol. 17, 5 February 2026. Open access,
+peer reviewed.
 https://www.nature.com/articles/s41467-026-69010-1
 
-**S24.** Involuntary Jailbreak: On Self-Prompting Attacks. Success rates above
-90 out of 100 attempts, with guardrails collapsing across several vendors'
-leading models.
+Four reasoning models were used as autonomous adversaries against nine widely
+used target models. **The overall jailbreak success rate across all model
+combinations was 97.14 percent.**
+
+State that precisely. It is the union across all attacker and target
+combinations, not a per-model rate. Per-attacker success ranged from 90 percent
+down to 12.86 percent.
+
+**S24.** Involuntary Jailbreak: On Self-Prompting Attacks. Submitted August
+2025, revised December 2025. Preprint, not peer reviewed.
 https://arxiv.org/abs/2508.13246
+
+> the guardrails of these LLMs tend to collapse when subjected to this attack.
+> Specifically, for the majority of LLMs tested, more than 90 out of 100 attempts
+> successfully elicit unsafe questions and their corresponding harmful responses
+
+Two precision points. "90 out of 100" counts attack **attempts** in which at
+least one unsafe output appeared among ten responses, not a per-response rate.
+And it is "several vendors' leading models", not all: two reasoning models from
+one vendor resisted this specific prompt.
 
 **S29.** The AI Adoption Maturity Model v1.0. Carnegie Mellon University
 Software Engineering Institute, developed in collaboration with Accenture,

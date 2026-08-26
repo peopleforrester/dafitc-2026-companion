@@ -23,13 +23,22 @@ a system prompt, you do not have a guardrail. **You have a request.**
 ## Why this is not a theoretical concern
 
 Guardrails that a model enforces on itself are bypassable at rates that make them
-unusable as a control. Large reasoning models acting as autonomous jailbreak
-agents reached a **97.14 percent** jailbreak success rate across model
-combinations. [S23]
+unusable as a control.
 
-Related work on self-prompting attacks reports success above 90 out of 100
-attempts, with guardrails collapsing across several vendors' leading models.
-[S24]
+Four reasoning models used as autonomous adversaries against nine widely used
+target models produced an **overall jailbreak success rate of 97.14 percent
+across all model combinations**. Peer reviewed, Nature Communications, February
+2026. [S23]
+
+Say that precisely if you repeat it. It is the union across all attacker and
+target pairings, not a rate any single model achieved. Per-attacker success
+ranged from 90 percent down to under 13 percent.
+
+Separately, a self-prompting attack elicited unsafe output in **more than 90 out
+of 100 attempts against the majority of models tested**, with the authors
+reporting that guardrails "tend to collapse" under it. Preprint, not peer
+reviewed, and two reasoning models from one vendor resisted this specific
+prompt. [S24]
 
 You cannot get a language model to reliably guard a language model, for the same
 reason you do not rely on a single person to be their own control. If you want
