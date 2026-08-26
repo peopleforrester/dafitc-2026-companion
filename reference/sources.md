@@ -8,8 +8,15 @@ Where a citation carries `[no verified URL]`, the reference is complete enough t
 find the document, but no canonical public URL has been confirmed. That is
 deliberate. A confident-looking link to the wrong page is worse than no link.
 
-Some `.mil` and `.gov` hosts return 403 to automated checkers while opening
-normally in a browser. Those URLs are correct.
+Some hosts return 403 to any automated checker while opening normally in a
+browser. That is bot protection, not a paywall and not a dead link. It affects
+`army.mil`, `af.mil`, `spaceforce.mil`, `doctrine.af.mil`, `e-publishing.af.mil`,
+`dodcio.defense.gov`, `media.defense.gov`, `esd.whs.mil`, `gao.gov`, `war.gov`,
+`gartner.com`, `bcg.com`, `nature.com` and `fastcompany.com`.
+
+Each of those was confirmed by hand, through an archive copy or a
+text-extraction route, before being exempted from the automated check. The
+document is where the link says it is.
 
 ---
 

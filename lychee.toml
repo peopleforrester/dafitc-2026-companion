@@ -17,9 +17,20 @@ exclude = [
   "^https://www\\.war\\.gov",
   "^https://media\\.defense\\.gov",
   "^https://www\\.esd\\.whs\\.mil",
+  "^https://www\\.spaceforce\\.mil",
+  "^https://dodcio\\.defense\\.gov",
+  "^https://www\\.army\\.mil",
   "^https://www\\.gartner\\.com",
   "^https://www\\.nature\\.com",
+  "^https://www\\.bcg\\.com",
+  "^https://www\\.fastcompany\\.com",
 ]
+
+# Every host above was checked by hand and its content confirmed through an
+# archive or a text-extraction route before being excluded. Excluding a host to
+# make the build green, without confirming the document is really there, would
+# turn this file into a way of hiding dead links rather than a way of finding
+# them. Do not add a host here without doing that check first.
 
 # Publishers rate-limit and government sites are slow. Be patient rather than
 # reporting a false dead link.
