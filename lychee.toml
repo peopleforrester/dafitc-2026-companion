@@ -1,0 +1,21 @@
+# Link checking configuration. Run in CI on every change so the leave-behind
+# never ships a dead link.
+
+# Some government and publisher hosts reject automated requests outright. They
+# are excluded by host rather than by URL so a new citation from the same host
+# does not silently start failing the build.
+exclude = [
+  "^https://static\\.e-publishing\\.af\\.mil",
+  "^https://www\\.gartner\\.com",
+  "^https://www\\.nature\\.com",
+]
+
+# Publishers rate-limit and government sites are slow. Be patient rather than
+# reporting a false dead link.
+max_retries = 3
+retry_wait_time = 4
+timeout = 30
+max_concurrency = 4
+
+accept = [200, 206, 301, 302, 403]
+user_agent = "Mozilla/5.0 (compatible; dafitc-companion-link-check)"

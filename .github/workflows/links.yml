@@ -1,0 +1,23 @@
+name: link check
+
+on:
+  push:
+  pull_request:
+  schedule:
+    # Weekly. A leave-behind outlives the talk, and a link that rots six months
+    # from now should surface here rather than in front of somebody.
+    - cron: "0 6 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config lychee.toml --no-progress './**/*.md'
+          fail: true
