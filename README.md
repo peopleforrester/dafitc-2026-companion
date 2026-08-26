@@ -29,6 +29,10 @@ documents](reference/official-documents.md). DAFMAN 36-2689 governs the
 proficiency codes, AFDN 25-1 is the AI doctrine, DoDM 8140.03 is the existing
 competency-based qualification model.
 
+**If you need to assess an organisation rather than a person**, the [AI Adoption
+Maturity Model](reference/official-documents.md#organisational-maturity) is the
+Carnegie Mellon SEI and Accenture model, free and downloadable.
+
 **If you are buying training or an AI capability**, read the vendor test at the
 end of [assess, roadmap, reassess](instruments/assess-roadmap-reassess.md) and
 the questions in [enforcement](instruments/enforcement.md).

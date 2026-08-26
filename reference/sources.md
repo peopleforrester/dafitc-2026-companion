@@ -141,6 +141,11 @@ https://www.nature.com/articles/s41467-026-69010-1
 leading models.
 https://arxiv.org/abs/2508.13246
 
+**S29.** The AI Adoption Maturity Model v1.0. Carnegie Mellon University
+Software Engineering Institute, developed in collaboration with Accenture,
+30 June 2026. Free, no registration.
+https://www.sei.cmu.edu/documents/6534/The_AI_Adoption_Maturity_Model.pdf
+
 ---
 
 ## The two learning paths

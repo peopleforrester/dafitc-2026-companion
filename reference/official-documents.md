@@ -111,6 +111,35 @@ original and was characterised as a clarification rather than a policy shift.
 
 ---
 
+## Organisational maturity
+
+### The AI Adoption Maturity Model v1.0 (30 June 2026)
+
+Direct PDF:
+`https://www.sei.cmu.edu/documents/6534/The_AI_Adoption_Maturity_Model.pdf`
+
+Landing page: `https://www.sei.cmu.edu/library/ai-adoption-maturity-model/`
+
+Carnegie Mellon University Software Engineering Institute, developed in
+collaboration with Accenture. Free, no registration.
+
+> Developed by the SEI in collaboration with Accenture, the AI Adoption Maturity
+> Model enables organizations to create an assessment-based roadmap for
+> successful AI adoption.
+
+Everything else in this repository measures a **person**. This measures an
+**organisation**, on the same discipline: maturity is judged by the capacity to
+establish trustworthy capabilities, rigorous engineering practice and governance
+connected to business results, rather than by how much has been deployed.
+
+If [assess, roadmap, reassess](../instruments/assess-roadmap-reassess.md) is the
+method applied to an Airman, this is the same method applied to a unit.
+
+Authors: Ipek Ozkaya, Anita Carleton, Sebastián Echeverría, Robert Edman, John
+Haller, Erin Harper, Michael D. Konrad, Carol J. Smith and Shawn Wray.
+
+---
+
 ## Risk frameworks
 
 ### NIST AI 100-1, AI Risk Management Framework 1.0 (January 2023)
