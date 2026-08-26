@@ -73,11 +73,15 @@ News release:
 One of the strategy's building blocks is cultivating access to an AI-literate
 workforce.
 
-The strategy PDF is deliberately not linked here. The copy that surfaces in
-search carries PREDECISIONAL and CUI markings on its first page, which is
-inconsistent with a public release and may be a residual cover page. Navigate
-from the news release rather than from a search result, and check the markings
-before you forward it.
+Strategy PDF, 14 pages:
+`https://www.af.mil/Portals/1/documents/2026SAF/DAF_AI_Strategy_Endorsed_20260417.pdf`
+
+**Read this before you forward that file.** Its cover carries DISTRIBUTION A and
+"Cleared for open publication, April 17, 2026", and it is hosted publicly on
+af.mil, so it is releasable. But the page headers and footers still carry
+"PREDECISIONAL, NOT FOR PUBLIC RELEASE" and "CUI" banners left over from
+staffing. The clearance line on the cover governs. It is flagged here so that
+nobody in your chain sees those banners and reports a spill.
 
 ### Artificial Intelligence Strategy for the Department of War (12 January 2026)
 
@@ -88,6 +92,15 @@ Data, Analytics and AI Adoption Strategy.
 
 Note the department renamed to Department of War, so older `defense.gov` links
 now redirect to `war.gov`. Check any DoD citation you are carrying forward.
+
+### Accelerating Secure Software, the SWFT memo (24 April 2025)
+
+`https://dodcio.defense.gov/Portals/0/Documents/Library/Memo-AcceleratingSecureSoftware.pdf`
+
+The one-page signed memo that established the Software Fast Track initiative.
+Continuous machine-readable evidence replacing the paper package is the pattern
+[enforcement](../instruments/enforcement.md) extends from software authorisation
+to AI behaviour.
 
 ### DoD AI Ethical Principles (adopted 21 February 2020)
 
@@ -186,5 +199,6 @@ A rescinded handbook in a leave-behind is worse than no citation.
 but hollowed out by interim changes. Training moved to DAFMAN 36-2689. Cite the
 children rather than the parent.
 
-**DoD Responsible AI Strategy and Implementation Pathway (June 2022).** No
-canonical URL could be confirmed. The citation is complete enough to find it.
+**Nothing further.** The June 2022 Responsible AI Strategy and Implementation
+Pathway was initially unverifiable and has since been confirmed. It is now in
+[sources](sources.md) as S4 with a working link.

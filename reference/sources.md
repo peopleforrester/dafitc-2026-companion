@@ -18,33 +18,55 @@ normally in a browser. Those URLs are correct.
 **S1.** DAF launches plan to bolster AI workforce. af.mil, April 2026.
 https://www.af.mil/News/Article-Display/Article/4472626/daf-launches-plan-to-bolster-ai-workforce/
 
-**S2.** AI Ready by 2025, AI Competitive by 2027. MeriTalk.
-`[no verified URL]`
+**S2.** Air Force Eyes 2025 for AI-Readiness, 2027 for AI-Competitive.
+Lisbeth Perez, MeriTalk, 31 August 2023. Quotes DAF CDAO Eileen Vidrine on both
+target dates.
+https://www.meritalk.com/articles/air-force-eyes-2025-for-ai-readiness-2027-for-ai-competitive/
 
-**S3.** DoD adopts 5 principles of artificial intelligence ethics. Army.mil,
-February 2020. `[no verified URL]`
+**S3.** DOD adopts 5 principles of artificial intelligence ethics. Army.mil,
+February 2020.
+https://www.army.mil/article/233690/dod_adopts_5_principles_of_artificial_intelligence_ethics
 
-**S4.** Responsible AI Strategy and Implementation Pathway. DoD, June 2022.
-`[no verified URL]`
+**S4.** Responsible Artificial Intelligence Strategy and Implementation
+Pathway. Prepared by the DoD Responsible AI Working Council, June 2022. 47 pages.
+https://media.defense.gov/2022/Jun/22/2003022604/-1/-1/0/Department-of-Defense-Responsible-Artificial-Intelligence-Strategy-and-Implementation-Pathway.PDF
 
-**S5.** Software Fast Track initiative, DoD CIO. war.gov, 2025.
-`[no verified URL]`
+**S5.** Accelerating Secure Software. The signed memo establishing the Software
+Fast Track initiative, Katie Arrington, 24 April 2025.
+https://dodcio.defense.gov/Portals/0/Documents/Library/Memo-AcceleratingSecureSoftware.pdf
 
-**S6.** The DoD SWFT Initiative and the Promise of cATO Fulfilled. Anchore.
-`[no verified URL]`
+Announcement, if you want prose rather than the instrument:
+https://www.war.gov/News/Releases/Release/Article/4174350/software-fast-track-initiative/
+
+**S6.** The DoD SWFT Initiative and the Promise of cATO Fulfilled. Jono
+Bergquist, Anchore, 27 January 2026.
+https://anchore.com/blog/dod-swft-initiative-and-promise-of-cato-fulfilled/
 
 **S9.** NSPM-11, Artificial Intelligence in the National Security Enterprise.
 The White House, June 5, 2026.
 https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/
 
-**S10.** Department of War AI strategy memoranda. January 9, 2026.
-`[no verified URL]`
+**S10.** Artificial Intelligence Strategy for the Department of War:
+Accelerating America's Military AI Dominance. Secretary of War, 9 January 2026.
+https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF
 
-**S11.** DAF AI Strategy. Cleared for open publication April 17, 2026.
-`[no verified URL]`
+Companion memo of the same date, Transforming the Defense Innovation Ecosystem:
+https://media.defense.gov/2026/Jan/12/2003855657/-1/-1/0/TRANSFORMING-THE-DEFENSE-INNOVATION-ECOSYSTEM-TO-ACCELERATE-WARFIGHTING-ADVANTAGE.PDF
 
-**S12.** DAF AI Hiring and Talent Development Plan, Total Force. April 2026.
-`[no verified URL]`
+**S11.** Department of the Air Force Artificial Intelligence Strategy.
+DISTRIBUTION A, cleared for open publication 17 April 2026. 14 pages.
+https://www.af.mil/Portals/1/documents/2026SAF/DAF_AI_Strategy_Endorsed_20260417.pdf
+
+Read the note on this file in [official documents](official-documents.md) before
+you forward it.
+
+**S12.** DAF AI Hiring and Talent Development Plan, Total Force, approved April
+2026. The plan document itself is not publicly posted. The announcement is the
+citable public source:
+https://www.af.mil/News/Article-Display/Article/4472626/daf-launches-plan-to-bolster-ai-workforce/
+
+Space Force mirror of the same release:
+https://www.spaceforce.mil/News/Article-Display/Article/4472659/daf-launches-plan-to-bolster-ai-workforce/
 
 **S16.** Air Force Doctrine Note 25-1, Artificial Intelligence. Published
 April 8, 2025.
