@@ -226,3 +226,7 @@ https://www.udacity.com/government/overview
 
 **Depth.** Ascendient Learning.
 https://www.ascendientlearning.com/it-training/topics/generative-ai
+
+---
+
+<sub>Reference · [All contents](../README.md)</sub>

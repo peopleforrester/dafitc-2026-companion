@@ -202,3 +202,7 @@ children rather than the parent.
 **Nothing further.** The June 2022 Responsible AI Strategy and Implementation
 Pathway was initially unverifiable and has since been confirmed. It is now in
 [sources](sources.md) as S4 with a working link.
+
+---
+
+<sub>Reference · [All contents](../README.md) · Next: [What changed](what-changed.md)</sub>

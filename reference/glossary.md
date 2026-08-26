@@ -129,3 +129,7 @@ not. Rules outside them can be, which is the whole enforcement argument.
 **AI-MAP.** AI Maturity Appraisal and Roadmap. Organisational rather than
 individual assessment. See the [AI Adoption Maturity
 Model](official-documents.md#organisational-maturity).
+
+---
+
+<sub>Reference · [All contents](../README.md) · Next: [Sources](sources.md)</sub>

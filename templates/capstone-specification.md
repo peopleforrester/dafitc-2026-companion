@@ -118,3 +118,7 @@ cannot deliver a capstone, whatever they call their final module.
 
 The rest of the questions are in [questions for a
 vendor](questions-for-a-vendor.md).
+
+---
+
+<sub>Template · [All contents](../README.md) · Next: [Brief your boss](brief-your-boss.md)</sub>

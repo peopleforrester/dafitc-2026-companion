@@ -76,3 +76,7 @@ we will have graduation rates and no answer.
 Everything above is sourced. The instruments, the proficiency code key, the
 official Air Force and DoD references and the full citation list are at
 **github.com/peopleforrester/dafitc-2026-companion**
+
+---
+
+<sub>Template · [All contents](../README.md)</sub>

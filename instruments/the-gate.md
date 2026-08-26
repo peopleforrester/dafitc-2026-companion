@@ -88,3 +88,7 @@ The gate is our synthesis. Ranking candidates on value and feasibility is
 standard practice; organizational readiness is ours.
 
 Source numbers refer to [the source list](../reference/sources.md).
+
+---
+
+<sub>Instrument 1 of 4 · [All contents](../README.md) · Next: [Levels of autonomy](levels-of-autonomy.md)</sub>

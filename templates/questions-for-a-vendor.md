@@ -57,7 +57,7 @@ is trained not to do that".
 
 What you want: enforcement in infrastructure, evaluated before the model's output
 is acted on. A constraint the model can choose to ignore is a request, not a
-control. See [enforcement](enforcement.md).
+control. See [enforcement](../instruments/enforcement.md).
 
 **7. When your agent calls a tool on my behalf, whose authority does it run
 with?**
@@ -120,6 +120,10 @@ how they handle evidence generally.
 A vendor who answers "all of them", or who answers without asking about your
 workflows, has not understood the problem.
 
-Run their answer through [the gate](the-gate.md). If their proposed beachhead
+Run their answer through [the gate](../instruments/the-gate.md). If their proposed beachhead
 fails two of the seven, they picked it for their convenience rather than your
 outcome.
+
+---
+
+<sub>Template · [All contents](../README.md) · Next: [Capstone specification](capstone-specification.md)</sub>

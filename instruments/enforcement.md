@@ -109,3 +109,7 @@ The CSF 2.0 mapping is the useful part for a federal reader: it lands the
 argument in a framework your assessors already use.
 
 Source numbers refer to [the source list](../reference/sources.md).
+
+---
+
+<sub>Instrument 4 of 4 · [All contents](../README.md)</sub>

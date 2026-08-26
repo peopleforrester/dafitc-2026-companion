@@ -61,3 +61,7 @@ key](../reference/proficiency-code-key.md). One measures how much supervision a
 been granted. An operator at proficiency 3 supervising a level 4 read-only agent
 is a coherent position, and merging the two rulers is how you end up measuring a
 person with a machine's scale.
+
+---
+
+<sub>Instrument 2 of 4 · [All contents](../README.md) · Next: [Assess, roadmap, reassess](assess-roadmap-reassess.md)</sub>

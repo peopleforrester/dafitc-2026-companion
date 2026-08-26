@@ -99,3 +99,7 @@ render it as budget. BCG's own sentence says efforts.
 
 **GenAI.mil user counts are an official self-report, not an audited figure.**
 Say "nearly 1.7 million" rather than rounding, and date it.
+
+---
+
+<sub>Reference · [All contents](../README.md) · Next: [Glossary](glossary.md)</sub>

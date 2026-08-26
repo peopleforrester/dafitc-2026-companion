@@ -142,3 +142,7 @@ not assess competency in the abstract. You name a unit of work and record how
 much supervision it still needs, on an entrustment-supervision scale. [S26]
 
 Both are the CFETP task performance scale, arrived at independently.
+
+---
+
+<sub>Reference · [All contents](../README.md) · Next: [Official documents](official-documents.md)</sub>
