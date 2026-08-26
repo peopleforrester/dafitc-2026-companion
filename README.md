@@ -33,9 +33,13 @@ competency-based qualification model.
 Maturity Model](reference/official-documents.md#organisational-maturity) is the
 Carnegie Mellon SEI and Accenture model, free and downloadable.
 
-**If you are buying training or an AI capability**, read the vendor test at the
-end of [assess, roadmap, reassess](instruments/assess-roadmap-reassess.md) and
-the questions in [enforcement](instruments/enforcement.md).
+**If you are buying training or an AI capability**, take [questions for a
+vendor](instruments/questions-for-a-vendor.md) into the meeting.
+
+**If you are carrying slides or talking points from the last eighteen months**,
+check them against [what changed](reference/what-changed.md) first. Four policy
+references have been rescinded or replaced, and two widely repeated claims do not
+hold up.
 
 ---
 
@@ -64,6 +68,7 @@ skill we were going to take on self-report.
 | [Levels of autonomy](instruments/levels-of-autonomy.md) | Five capability levels against the human control posture each implies. |
 | [Assess, roadmap, reassess](instruments/assess-roadmap-reassess.md) | Turning competency into a measured delta instead of a claim. Includes the capstone and the vendor test. |
 | [Enforcement](instruments/enforcement.md) | Telling infrastructure enforcement apart from a model's cooperation. |
+| [Questions for a vendor](instruments/questions-for-a-vendor.md) | Fifteen questions, each with a wrong answer that should end the conversation. Take it into the meeting. |
 
 ### Reference
 
@@ -71,6 +76,8 @@ skill we were going to take on self-report.
 |---|---|
 | [Air Force Proficiency Code Key](reference/proficiency-code-key.md) | The task performance and knowledge scales from the CFETP, verbatim, in one page. |
 | [Official documents](reference/official-documents.md) | Air Force and DoD sources that govern training, qualification, AI doctrine and risk. Your authorities, not ours. |
+| [What changed](reference/what-changed.md) | Policy that has been rescinded or replaced, and two widely repeated claims that do not survive checking. |
+| [Glossary](reference/glossary.md) | Every acronym and term the session used, from CFETP to prompt injection. |
 | [Sources](reference/sources.md) | Every citation from the session, with URLs. |
 
 ---
