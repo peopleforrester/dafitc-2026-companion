@@ -60,5 +60,16 @@ skill we were going to take on self-report.
 
 ---
 
+## Scan or type
+
+![QR code for this repository](qr-code.png)
+
+**github.com/peopleforrester/dafitc-2026-companion**
+
+The QR image is committed to this repository, so the code on the slide and the
+destination it points at cannot drift apart.
+
+---
+
 Michael Forrester, Accenture LearnVantage via Accenture Federal Services.
 Questions: michael.r.forrester@accenture.com
