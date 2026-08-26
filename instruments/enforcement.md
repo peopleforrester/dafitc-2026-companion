@@ -91,4 +91,21 @@ was correct.
 **Enforcement is not accuracy.** Anything that claims otherwise is selling you
 something.
 
+---
+
+## If you need to implement this
+
+This page argues the principle and gives you the questions. It does not give you
+policies you can apply.
+
+**Agentic Covenants** does: six matrices mapped to the six NIST CSF 2.0
+functions, ninety-three cells, with working Kyverno policies, RBAC, Falco rules
+and kill-switch runbooks. Free, no dependencies, and its thesis is the same as
+this page's, that governance is enforced by infrastructure rather than by prompt.
+
+https://github.com/peopleforrester/agentic-covenants
+
+The CSF 2.0 mapping is the useful part for a federal reader: it lands the
+argument in a framework your assessors already use.
+
 Source numbers refer to [the source list](../reference/sources.md).

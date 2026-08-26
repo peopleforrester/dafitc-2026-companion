@@ -43,6 +43,12 @@ hold up.
 
 ---
 
+## Need to explain this upward?
+
+[Brief your boss](brief-your-boss.md) is one page. Forward it, or read it out.
+
+---
+
 ## The one idea
 
 Your department has decided that demonstrated competency is the standard. No
@@ -69,6 +75,7 @@ skill we were going to take on self-report.
 | [Assess, roadmap, reassess](instruments/assess-roadmap-reassess.md) | Turning competency into a measured delta instead of a claim. Includes the capstone and the vendor test. |
 | [Enforcement](instruments/enforcement.md) | Telling infrastructure enforcement apart from a model's cooperation. |
 | [Questions for a vendor](instruments/questions-for-a-vendor.md) | Fifteen questions, each with a wrong answer that should end the conversation. Take it into the meeting. |
+| [Capstone specification](instruments/capstone-specification.md) | What a capstone looks like written down, so you can hand it to a provider as a requirement. |
 
 ### Reference
 
@@ -121,6 +128,19 @@ in a browser.
 
 The QR image is committed here, so the code on the slide and the destination it
 points at cannot drift apart.
+
+---
+
+## Further reading
+
+**[Agentic Covenants](https://github.com/peopleforrester/agentic-covenants)**,
+for implementing infrastructure-enforced agent governance. Six matrices mapped to
+NIST CSF 2.0, with working policies and runbooks rather than principles.
+
+**[The AI Adoption Maturity
+Model](https://www.sei.cmu.edu/documents/6534/The_AI_Adoption_Maturity_Model.pdf)**,
+Carnegie Mellon SEI with Accenture, for assessing an organisation rather than a
+person.
 
 ---
 
