@@ -23,6 +23,16 @@ Qualification Standard. A trainer and a certifier initial each task.
 It is not a curriculum document. It is an assessment instrument with a named
 observer and a signature.
 
+**The governing authority is DAFMAN 36-2689, Training Program**, which covers the
+Proficiency Code Key, core-task identification, on-the-job training and the AF
+Form 623 record. It replaced AFI 36-2201, which is rescinded; copies of the 2010
+AFI still circulate on unofficial mirrors, so do not cite that one. See [official
+documents](official-documents.md).
+
+**Check which generation your CFETP uses.** Some career fields are migrating off
+the numeric scale below to a behavioural-statement coding system using P for
+performance, K for knowledge and pk. What follows is the numeric generation.
+
 ---
 
 ## Task performance levels

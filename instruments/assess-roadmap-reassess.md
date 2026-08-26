@@ -81,6 +81,20 @@ certificate.**
 
 ---
 
+## This is already departmental policy
+
+Demonstrated competency rather than a certificate is not a vendor's opinion.
+DoDM 8140.03, the Cyberspace Workforce Qualification and Management Program,
+is a mandatory competency-based qualification model: foundational qualification
+within nine months, demonstrated on-the-job readiness within twelve. The DoD
+Cyber Workforce Framework it runs on already contains data and AI work roles.
+
+If you are asked why demonstrated competency needs proving rather than
+asserting, that is the precedent. See [official
+documents](../reference/official-documents.md).
+
+---
+
 ## The capstone
 
 One person. Their workflow. Their tools. A measured result.

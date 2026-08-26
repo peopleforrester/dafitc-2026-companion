@@ -24,6 +24,11 @@ autonomy](instruments/levels-of-autonomy.md).
 reassess](instruments/assess-roadmap-reassess.md) and the [proficiency code
 key](reference/proficiency-code-key.md).
 
+**If you need the authority behind any of this**, go to [official
+documents](reference/official-documents.md). DAFMAN 36-2689 governs the
+proficiency codes, AFDN 25-1 is the AI doctrine, DoDM 8140.03 is the existing
+competency-based qualification model.
+
 **If you are buying training or an AI capability**, read the vendor test at the
 end of [assess, roadmap, reassess](instruments/assess-roadmap-reassess.md) and
 the questions in [enforcement](instruments/enforcement.md).
@@ -61,6 +66,7 @@ skill we were going to take on self-report.
 | | |
 |---|---|
 | [Air Force Proficiency Code Key](reference/proficiency-code-key.md) | The task performance and knowledge scales from the CFETP, verbatim, in one page. |
+| [Official documents](reference/official-documents.md) | Air Force and DoD sources that govern training, qualification, AI doctrine and risk. Your authorities, not ours. |
 | [Sources](reference/sources.md) | Every citation from the session, with URLs. |
 
 ---

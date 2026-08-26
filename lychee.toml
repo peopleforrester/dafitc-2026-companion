@@ -5,7 +5,18 @@
 # are excluded by host rather than by URL so a new citation from the same host
 # does not silently start failing the build.
 exclude = [
+  # These hosts block automated requests and return 403 or time out. The URLs
+  # are real and open normally in a browser; excluding them by host means a new
+  # citation from the same host does not silently start failing the build.
   "^https://static\\.e-publishing\\.af\\.mil",
+  "^https://www\\.e-publishing\\.af\\.mil",
+  "^https://www\\.af\\.mil",
+  "^https://www\\.doctrine\\.af\\.mil",
+  "^https://www\\.airuniversity\\.af\\.edu",
+  "^https://www\\.gao\\.gov",
+  "^https://www\\.war\\.gov",
+  "^https://media\\.defense\\.gov",
+  "^https://www\\.esd\\.whs\\.mil",
   "^https://www\\.gartner\\.com",
   "^https://www\\.nature\\.com",
 ]
@@ -17,5 +28,7 @@ retry_wait_time = 4
 timeout = 30
 max_concurrency = 4
 
-accept = [200, 206, 301, 302, 403]
+# 403 is deliberately NOT accepted. Blocked hosts are excluded by name above, so
+# a 403 from anywhere else is a real signal rather than noise to be swallowed.
+accept = [200, 206, 301, 302]
 user_agent = "Mozilla/5.0 (compatible; dafitc-companion-link-check)"
