@@ -8,23 +8,23 @@ Five capability levels, and the human control posture each one implies.
 
 ## The levels
 
-**Level 1 — Assistant**
+**Level 1. Assistant**
 Ask and answer. No access to your systems.
 Control posture: **human in the loop**
 
-**Level 2 — Retrieval-grounded**
+**Level 2. Retrieval-grounded**
 Answers from your cleared corpus, with citations.
 Control posture: **human in the loop**
 
-**Level 3 — Tool-using**
+**Level 3. Tool-using**
 Calls systems under supervision, one action at a time.
 Control posture: **human in the loop, per action**
 
-**Level 4 — Read-only autonomous**
+**Level 4. Read-only autonomous**
 Runs continuously, observes and briefs, changes nothing.
 Control posture: **human on the loop**
 
-**Level 5 — Action-taking**
+**Level 5. Action-taking**
 Alters systems of record.
 Control posture: **human out of the loop**
 

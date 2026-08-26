@@ -27,17 +27,17 @@ observer and a signature.
 
 ## Task performance levels
 
-**1 — Extremely Limited**
+**1. Extremely Limited**
 Can do simple parts of the task. Needs to be told or shown how to do most of the
 task.
 
-**2 — Partially Proficient**
+**2. Partially Proficient**
 Can do most parts of the task. Needs only help on hardest parts.
 
-**3 — Competent**
+**3. Competent**
 Can do all parts of the task. Needs only a spot check of completed work.
 
-**4 — Highly Proficient**
+**4. Highly Proficient**
 Can do the complete task quickly and accurately. Can tell or show others how to
 do the task.
 
@@ -45,33 +45,33 @@ do the task.
 
 ## Task knowledge levels
 
-**a — Nomenclature**
+**a. Nomenclature**
 Can name parts, tools, and simple facts about the task.
 
-**b — Procedures**
+**b. Procedures**
 Can determine step by step procedures for doing the task.
 
-**c — Operating Principles**
+**c. Operating Principles**
 Can identify why and when the task must be done and why each step is needed.
 
-**d — Advanced Theory**
+**d. Advanced Theory**
 Can predict, isolate, and resolve problems about the task.
 
 ---
 
 ## Subject knowledge levels
 
-**A — Facts**
+**A. Facts**
 Can identify basic facts and terms about the subject.
 
-**B — Principles**
+**B. Principles**
 Can identify relationship of basic facts and state general principles about the
 subject.
 
-**C — Analysis**
+**C. Analysis**
 Can analyze facts and principles and draw conclusions about the subject.
 
-**D — Evaluation**
+**D. Evaluation**
 Can evaluate conditions and make proper decisions about the subject.
 
 ---
