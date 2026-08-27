@@ -24,6 +24,11 @@ exclude = [
   "^https://www\\.nature\\.com",
   "^https://www\\.bcg\\.com",
   "^https://www\\.fastcompany\\.com",
+  # Wayback rate-limits CI runners and refuses the connection, while serving the
+  # file normally elsewhere. Verified by hand: HTTP 200, application/pdf. It is
+  # excluded reluctantly, because it is the only surviving copy of a withdrawn
+  # report and therefore the one link here that most needs watching.
+  "^https://web\\.archive\\.org",
 ]
 
 # Every host above was checked by hand and its content confirmed through an
