@@ -89,17 +89,21 @@ Things you fill in, hand over, or forward.
 
 ## The slides
 
-**[AFS-DAFITC-2026-Presentation-Deck-DRAFT v23.pptx](AFS-DAFITC-2026-Presentation-Deck-DRAFT%20v23.pptx)**
+[![Title slide](assets/deck-title-slide.png)](slides/AFS-DAFITC-2026-Accelerating-Mission-Readiness-v23.pptx)
 
-The deck as delivered, 31 slides, with the speaker notes left in. The notes carry
-the sourcing and the reasoning behind each slide, which is usually the part
-people want and rarely the part they get.
+**[Download the deck](slides/AFS-DAFITC-2026-Accelerating-Mission-Readiness-v23.pptx)** · 31 slides · 2.5 MB · PowerPoint
 
-One correction to it. The speaker notes on slide 25 cite a story about a
-customer-facing ordering bot that was talked into doing someone's programming
-homework. **That story is fabricated**, and the deck is published as delivered
-rather than quietly edited. The debunk and the evidence that should replace it
-are in [what changed](reference/what-changed.md).
+**[See all 31 slides at a glance](assets/deck-contact-sheet.png)**
+
+The deck as delivered, with the speaker notes left in. The notes carry the
+sourcing and the reasoning behind each slide, which is usually the part people
+want and rarely the part they get.
+
+One correction. The speaker notes on slide 25, and appendix source S20, cite a
+story about a customer-facing ordering bot talked into doing someone's
+programming homework. **That story is fabricated.** The deck is published as
+delivered rather than quietly edited, so the debunk and the evidence that should
+replace it are in [what changed](reference/what-changed.md).
 
 ---
 
