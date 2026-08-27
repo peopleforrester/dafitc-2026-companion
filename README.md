@@ -99,12 +99,6 @@ The deck as delivered, with the speaker notes left in. The notes carry the
 sourcing and the reasoning behind each slide, which is usually the part people
 want and rarely the part they get.
 
-One correction. The speaker notes on slide 25, and appendix source S20, cite a
-story about a customer-facing ordering bot talked into doing someone's
-programming homework. **That story is fabricated.** The deck is published as
-delivered rather than quietly edited, so the debunk and the evidence that should
-replace it are in [what changed](reference/what-changed.md).
-
 ---
 
 ## The two learning paths

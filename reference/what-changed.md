@@ -58,13 +58,12 @@ by that company.
 
 [Fast Company, 24 April 2026](https://www.fastcompany.com/91532091/mcdonalds-ai-bot-didnt-go-rogue)
 
-**This affects the deck in this repository.** The speaker notes on slide 25 tell
-that story as a real example. The deck is published as it was delivered rather
-than quietly corrected, so the correction lives here instead. If you reuse those
-notes, cut that passage and use S23 or S24.
-
 The vulnerability class is real. That story is not evidence of it. For real
 evidence use [S23 or S24](sources.md).
+
+It was cut from the deck in this repository rather than left standing with a
+footnote. It is recorded here because it is in wide circulation and someone will
+repeat it to you.
 
 The documented ordering-bot failure people are sometimes thinking of is a
 drive-thru voice system gamed into accepting an absurd order, which is a
