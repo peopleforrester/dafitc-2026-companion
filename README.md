@@ -87,6 +87,22 @@ Things you fill in, hand over, or forward.
 
 ---
 
+## The slides
+
+**[AFS-DAFITC-2026-Presentation-Deck-DRAFT v23.pptx](AFS-DAFITC-2026-Presentation-Deck-DRAFT%20v23.pptx)**
+
+The deck as delivered, 31 slides, with the speaker notes left in. The notes carry
+the sourcing and the reasoning behind each slide, which is usually the part
+people want and rarely the part they get.
+
+One correction to it. The speaker notes on slide 25 cite a story about a
+customer-facing ordering bot that was talked into doing someone's programming
+homework. **That story is fabricated**, and the deck is published as delivered
+rather than quietly edited. The debunk and the evidence that should replace it
+are in [what changed](reference/what-changed.md).
+
+---
+
 ## The two learning paths
 
 Both modes serve both tracks. The stage you are working in decides which you
